@@ -1,8 +1,10 @@
 # EQGSA_Quantum_GSA
 This repository contains code source of our algorithm EQGSA, which is an extension of the algorithm  GSA by Quantum computing. EQGSA is applied to resolve data placement  problem for  scientific workflow (SW) in geo-distributed cloud computing. 
 
-Please cite the following reference when using this code:
+
 ### Citation
+Please cite the following reference when using this code:
+```bibtex
 @article{brahmi2024eqgsa,
   title={EQGSA-DPW: A Quantum-GSA Algorithm-Based Data Placement for Scientific Workflow in Cloud Computing Environment},
   author={Brahmi, Zaki and Derouiche, Rihab},
