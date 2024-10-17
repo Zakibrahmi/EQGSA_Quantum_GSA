@@ -15,7 +15,7 @@ Please cite the following reference when using this code:
   year={2024},
   publisher={Springer}
 }
-
+```
 # How to use the code
 
 **EQGSA is based on the [EARS](https://github.com/UM-LPM/EARS) framework. It is recommended to clone this repository for use.**
